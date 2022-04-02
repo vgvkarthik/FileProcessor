@@ -1,0 +1,15 @@
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\bin\Debug\net6.0\FlightInfoProcessor.exe
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\bin\Debug\net6.0\FlightInfoProcessor.deps.json
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\bin\Debug\net6.0\FlightInfoProcessor.runtimeconfig.json
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\bin\Debug\net6.0\FlightInfoProcessor.dll
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\bin\Debug\net6.0\FlightInfoProcessor.pdb
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.csproj.AssemblyReference.cache
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.AssemblyInfoInputs.cache
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.AssemblyInfo.cs
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.csproj.CoreCompileInputs.cache
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.dll
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\refint\FlightInfoProcessor.dll
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.pdb
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\FlightInfoProcessor.genruntimeconfig.cache
+C:\Users\vgvka\source\repos\FlightInfoProcessor\FlightInfoProcessor\obj\Debug\net6.0\ref\FlightInfoProcessor.dll
